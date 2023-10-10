@@ -1,0 +1,80 @@
+[
+  {
+    "_id": "35b25b17-c17a-432d-9b49-23a56db12b61",
+    "name": "Unbranded Cheese",
+    "description": "The Football Is Good For Training And Recreational Purposes",
+    "brand": "Price, Marvin and Lesch",
+    "price": "$107.00",
+    "currency": "USD",
+    "inStock": true,
+    "attributes": {
+      "materials": "Wooden",
+      "color": "tan"
+    }
+  },
+  {
+    "_id": "08174ff0-5673-4076-820e-fd654985408f",
+    "name": "Generic Fish",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "brand": "Mosciski - Hettinger",
+    "price": "$27.00",
+    "currency": "USD",
+    "inStock": false,
+    "attributes": {
+      "materials": "Cotton",
+      "color": "magenta"
+    }
+  },
+  {
+    "_id": "cebcaf51-ab7c-4640-9e74-7bf77b120505",
+    "name": "Practical Table",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "brand": "Vandervort - Batz",
+    "price": "$42.00",
+    "currency": "USD",
+    "inStock": false,
+    "attributes": {
+      "materials": "Fresh",
+      "color": "maroon"
+    }
+  },
+  {
+    "_id": "6019cf98-d0a0-4053-90b8-6edb8f5bdfcf",
+    "name": "Handcrafted Shirt",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "brand": "Franey - Goyette",
+    "price": "$113.00",
+    "currency": "USD",
+    "inStock": true,
+    "attributes": {
+      "materials": "Cotton",
+      "color": "maroon"
+    }
+  },
+  {
+    "_id": "e5b31b17-e027-43d4-87a2-917f80ebe366",
+    "name": "Handmade Car",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "brand": "Conn Inc",
+    "price": "$60.00",
+    "currency": "USD",
+    "inStock": true,
+    "attributes": {
+      "materials": "Metal",
+      "color": "mint green"
+    }
+  },
+  {
+    "_id": "9250ae9b-00bb-4dbd-bb65-a1ea97bc0ae7",
+    "name": "Gorgeous Salad",
+    "description": "The Football Is Good For Training And Recreational Purposes",
+    "brand": "Hane LLC",
+    "price": "$172.00",
+    "currency": "USD",
+    "inStock": false,
+    "attributes": {
+      "materials": "Rubber",
+      "color": "lime"
+    }
+  }
+]
